@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atividade_Unima/Atividade_03/Atividade_03.iml" filepath="$PROJECT_DIR$/Atividade_Unima/Atividade_03/Atividade_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_Unima/Atividade_04/Atividade_04.iml" filepath="$PROJECT_DIR$/Atividade_Unima/Atividade_04/Atividade_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_Unima/Atividade_05/Atividade_05.iml" filepath="$PROJECT_DIR$/Atividade_Unima/Atividade_05/Atividade_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_Unima/Atividade_06/Atividade_06.iml" filepath="$PROJECT_DIR$/Atividade_Unima/Atividade_06/Atividade_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_Unima/Atividade_07/Atividade_07.iml" filepath="$PROJECT_DIR$/Atividade_Unima/Atividade_07/Atividade_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_Unima/Atividade_Unima.iml" filepath="$PROJECT_DIR$/Atividade_Unima/Atividade_Unima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Biblioteca/Biblioteca.iml" filepath="$PROJECT_DIR$/Biblioteca/Biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Biblioteca_Projeto/Biblioteca_Projeto.iml" filepath="$PROJECT_DIR$/Biblioteca_Projeto/Biblioteca_Projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPoo/JavaPoo.iml" filepath="$PROJECT_DIR$/JavaPoo/JavaPoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeiroProjetoJava/PrimeiroProjetoJava.iml" filepath="$PROJECT_DIR$/PrimeiroProjetoJava/PrimeiroProjetoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Atividade_Unima/atividade_02/atividade_02.iml" filepath="$PROJECT_DIR$/Atividade_Unima/atividade_02/atividade_02.iml" />
+    </modules>
+  </component>
+</project>
